@@ -1,0 +1,9 @@
+C:\Program Files (x86)\Common Files\Autodesk Shared\VBAServer\ASD\Truss project\v1.1\_Build\Test.exe
+C:\Program Files (x86)\Common Files\Autodesk Shared\VBAServer\ASD\Truss project\v1.1\_Build\Test.pdb
+C:\Program Files (x86)\Common Files\Autodesk Shared\VBAServer\ASD\Truss project\v1.1\_Build\Test.xml
+C:\Program Files (x86)\Common Files\Autodesk Shared\VBAServer\ASD\Truss project\v1.1\Test\obj\Debug\Test.Resources.resources
+C:\Program Files (x86)\Common Files\Autodesk Shared\VBAServer\ASD\Truss project\v1.1\Test\obj\Debug\Test.vbproj.GenerateResource.Cache
+C:\Program Files (x86)\Common Files\Autodesk Shared\VBAServer\ASD\Truss project\v1.1\Test\obj\Debug\Test.exe
+C:\Program Files (x86)\Common Files\Autodesk Shared\VBAServer\ASD\Truss project\v1.1\Test\obj\Debug\Test.xml
+C:\Program Files (x86)\Common Files\Autodesk Shared\VBAServer\ASD\Truss project\v1.1\Test\obj\Debug\Test.pdb
+C:\Program Files (x86)\Common Files\Autodesk Shared\VBAServer\ASD\Truss project\v1.1\Test\obj\Debug\Test.vbprojResolveAssemblyReference.cache

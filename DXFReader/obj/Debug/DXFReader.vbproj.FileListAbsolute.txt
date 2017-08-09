@@ -1,0 +1,24 @@
+C:\Program Files (x86)\Common Files\Autodesk Shared\VBAServer\ASD\Truss project\DxfTruss -From Website\DXFReader\bin\Debug\DXFReader.exe
+C:\Program Files (x86)\Common Files\Autodesk Shared\VBAServer\ASD\Truss project\DxfTruss -From Website\DXFReader\bin\Debug\DXFReader.pdb
+C:\Program Files (x86)\Common Files\Autodesk Shared\VBAServer\ASD\Truss project\DxfTruss -From Website\DXFReader\bin\Debug\DXFReader.xml
+C:\Program Files (x86)\Common Files\Autodesk Shared\VBAServer\ASD\Truss project\DxfTruss -From Website\DXFReader\obj\Debug\DXFReader.frmMain.resources
+C:\Program Files (x86)\Common Files\Autodesk Shared\VBAServer\ASD\Truss project\DxfTruss -From Website\DXFReader\obj\Debug\DXFReader.Resources.resources
+C:\Program Files (x86)\Common Files\Autodesk Shared\VBAServer\ASD\Truss project\DxfTruss -From Website\DXFReader\obj\Debug\DXFReader.vbproj.GenerateResource.Cache
+C:\Program Files (x86)\Common Files\Autodesk Shared\VBAServer\ASD\Truss project\DxfTruss -From Website\DXFReader\obj\Debug\DXFReader.exe
+C:\Program Files (x86)\Common Files\Autodesk Shared\VBAServer\ASD\Truss project\DxfTruss -From Website\DXFReader\obj\Debug\DXFReader.xml
+C:\Program Files (x86)\Common Files\Autodesk Shared\VBAServer\ASD\Truss project\DxfTruss -From Website\DXFReader\obj\Debug\DXFReader.pdb
+C:\Program Files (x86)\Common Files\Autodesk Shared\VBAServer\ASD\Truss project\DxfTruss -From Website\DXFReader\bin\Debug\DXFReader.exe.config
+C:\Program Files (x86)\Common Files\Autodesk Shared\VBAServer\ASD\Truss project\DxfTruss -From Website\_Build\DXFReader.exe.config
+C:\Program Files (x86)\Common Files\Autodesk Shared\VBAServer\ASD\Truss project\DxfTruss -From Website\_Build\DXFReader.exe
+C:\Program Files (x86)\Common Files\Autodesk Shared\VBAServer\ASD\Truss project\DxfTruss -From Website\_Build\DXFReader.pdb
+C:\Program Files (x86)\Common Files\Autodesk Shared\VBAServer\ASD\Truss project\DxfTruss -From Website\_Build\DXFReader.xml
+C:\Program Files (x86)\Common Files\Autodesk Shared\VBAServer\ASD\Truss project\v1.1\_Build\DXFReader.exe.config
+C:\Program Files (x86)\Common Files\Autodesk Shared\VBAServer\ASD\Truss project\v1.1\DXFReader\obj\Debug\DXFReader.exe
+C:\Program Files (x86)\Common Files\Autodesk Shared\VBAServer\ASD\Truss project\v1.1\DXFReader\obj\Debug\DXFReader.xml
+C:\Program Files (x86)\Common Files\Autodesk Shared\VBAServer\ASD\Truss project\v1.1\DXFReader\obj\Debug\DXFReader.pdb
+C:\Program Files (x86)\Common Files\Autodesk Shared\VBAServer\ASD\Truss project\v1.1\_Build\DXFReader.exe
+C:\Program Files (x86)\Common Files\Autodesk Shared\VBAServer\ASD\Truss project\v1.1\_Build\DXFReader.pdb
+C:\Program Files (x86)\Common Files\Autodesk Shared\VBAServer\ASD\Truss project\v1.1\_Build\DXFReader.xml
+C:\Program Files (x86)\Common Files\Autodesk Shared\VBAServer\ASD\Truss project\v1.1\DXFReader\obj\Debug\DXFReader.frmMain.resources
+C:\Program Files (x86)\Common Files\Autodesk Shared\VBAServer\ASD\Truss project\v1.1\DXFReader\obj\Debug\DXFReader.Resources.resources
+C:\Program Files (x86)\Common Files\Autodesk Shared\VBAServer\ASD\Truss project\v1.1\DXFReader\obj\Debug\DXFReader.vbproj.GenerateResource.Cache
