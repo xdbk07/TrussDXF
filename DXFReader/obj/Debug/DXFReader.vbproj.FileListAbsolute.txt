@@ -22,3 +22,7 @@ C:\Program Files (x86)\Common Files\Autodesk Shared\VBAServer\ASD\Truss project\
 C:\Program Files (x86)\Common Files\Autodesk Shared\VBAServer\ASD\Truss project\v1.1\DXFReader\obj\Debug\DXFReader.frmMain.resources
 C:\Program Files (x86)\Common Files\Autodesk Shared\VBAServer\ASD\Truss project\v1.1\DXFReader\obj\Debug\DXFReader.Resources.resources
 C:\Program Files (x86)\Common Files\Autodesk Shared\VBAServer\ASD\Truss project\v1.1\DXFReader\obj\Debug\DXFReader.vbproj.GenerateResource.Cache
+C:\Program Files (x86)\Common Files\Autodesk Shared\VBAServer\ASD\Truss project\TrussGit\_Build\DXFReader.exe.config
+C:\Program Files (x86)\Common Files\Autodesk Shared\VBAServer\ASD\Truss project\TrussGit\DXFReader\obj\Debug\DXFReader.exe
+C:\Program Files (x86)\Common Files\Autodesk Shared\VBAServer\ASD\Truss project\TrussGit\DXFReader\obj\Debug\DXFReader.xml
+C:\Program Files (x86)\Common Files\Autodesk Shared\VBAServer\ASD\Truss project\TrussGit\DXFReader\obj\Debug\DXFReader.pdb
